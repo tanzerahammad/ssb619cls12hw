@@ -1,0 +1,62 @@
+/* font link */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+/* header part */
+.header{
+	height: 100px;
+    background-color: red;
+}
+
+/* content part */
+.contenter{
+    overflow: hidden;
+    border: 10px solid yellow;
+}
+
+/* left content */
+.blog{
+	float: left;
+	width: 70%;
+	height: 150px;
+	background-color: blue;
+}
+
+
+/* right content */
+.contect{
+	float: right;
+	width: 30%;
+	height: 150px;
+	background-color: green;
+}
+/* wrapper */
+
+.box{
+	float: left;
+	width: 30.2%;
+	height: 100px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.item1{
+	background-color: lightcoral;
+}
+.item2{
+	background-color: gray;
+}
+.item3{
+	background-color: orchid;
+}
+
+.box1{
+	width: 50%;
+	height: 400px;
+}
+
+/* footer part */
+.footer{
+	height: 100px;
+	background-color: black;
+}
